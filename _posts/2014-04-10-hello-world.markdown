@@ -2,7 +2,7 @@
 layout: post
 title: Hello World!
 date:   2014-04-10 23:11:00
-categories: LaTeX jekyll
+categories: LaTeX
 ---
 
 $$
