@@ -1,16 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>1 | Academic</title>
+    <title>1 | Biao Zhang (张彪)</title>
     <link>https://1zb.github.io/publication-type/1/</link>
       <atom:link href="https://1zb.github.io/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jul 2013 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 05 Mar 2021 23:42:44 +0300</lastBuildDate>
     <image>
       <url>https://1zb.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>1</title>
       <link>https://1zb.github.io/publication-type/1/</link>
     </image>
+    
+    <item>
+      <title>Point cloud instance segmentation using probabilistic embeddings</title>
+      <link>https://1zb.github.io/publication/prob-embed/</link>
+      <pubDate>Fri, 05 Mar 2021 23:42:44 +0300</pubDate>
+      <guid>https://1zb.github.io/publication/prob-embed/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>An example conference paper</title>

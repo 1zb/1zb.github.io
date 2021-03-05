@@ -1,16 +1,32 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Publications | Academic</title>
+    <title>Publications | Biao Zhang (张彪)</title>
     <link>https://1zb.github.io/publication/</link>
       <atom:link href="https://1zb.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jul 2013 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 05 Mar 2021 23:42:44 +0300</lastBuildDate>
     <image>
       <url>https://1zb.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Publications</title>
       <link>https://1zb.github.io/publication/</link>
     </image>
+    
+    <item>
+      <title>Point cloud instance segmentation using probabilistic embeddings</title>
+      <link>https://1zb.github.io/publication/prob-embed/</link>
+      <pubDate>Fri, 05 Mar 2021 23:42:44 +0300</pubDate>
+      <guid>https://1zb.github.io/publication/prob-embed/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Training Data Generating Networks: Linking 3D Shapes and Few-Shot Classification</title>
+      <link>https://1zb.github.io/publication/shape-few-shot/</link>
+      <pubDate>Mon, 05 Oct 2020 23:51:50 +0300</pubDate>
+      <guid>https://1zb.github.io/publication/shape-few-shot/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>An example conference paper</title>
