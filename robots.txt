@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://1zb.github.io/sitemap.xml
