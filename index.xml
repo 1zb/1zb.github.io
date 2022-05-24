@@ -33,6 +33,22 @@
     </item>
     
     <item>
+      <title>Training Data Generating Networks: Shape Reconstruction via Bi-level Optimization</title>
+      <link>https://1zb.github.io/publication/shape-few-shot/</link>
+      <pubDate>Mon, 25 Apr 2022 23:51:50 +0300</pubDate>
+      <guid>https://1zb.github.io/publication/shape-few-shot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Intuitive and Efficient Roof Modeling for Reconstruction and Synthesis</title>
+      <link>https://1zb.github.io/publication/roof/</link>
+      <pubDate>Thu, 16 Sep 2021 23:51:50 +0300</pubDate>
+      <guid>https://1zb.github.io/publication/roof/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Point cloud instance segmentation using probabilistic embeddings</title>
       <link>https://1zb.github.io/publication/prob-embed/</link>
       <pubDate>Fri, 05 Mar 2021 23:42:44 +0300</pubDate>
@@ -114,14 +130,6 @@
 &lt;p&gt;Copyright 2016-present &lt;a href=&#34;https://georgecushen.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;George Cushen&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Released under the &lt;a href=&#34;https://github.com/wowchemy/wowchemy-hugo-modules/blob/master/LICENSE.md&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MIT&lt;/a&gt; license.&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Training Data Generating Networks: Linking 3D Shapes and Few-Shot Classification</title>
-      <link>https://1zb.github.io/publication/shape-few-shot/</link>
-      <pubDate>Mon, 05 Oct 2020 23:51:50 +0300</pubDate>
-      <guid>https://1zb.github.io/publication/shape-few-shot/</guid>
-      <description></description>
     </item>
     
     <item>
