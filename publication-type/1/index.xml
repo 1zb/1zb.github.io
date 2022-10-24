@@ -5,12 +5,20 @@
     <link>https://1zb.github.io/publication-type/1/</link>
       <atom:link href="https://1zb.github.io/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 25 Apr 2022 23:51:50 +0300</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 12 Oct 2022 23:42:44 +0300</lastBuildDate>
     <image>
       <url>https://1zb.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>1</title>
       <link>https://1zb.github.io/publication-type/1/</link>
     </image>
+    
+    <item>
+      <title>3DILG: Irregular Latent Grids for 3D Generative Modeling</title>
+      <link>https://1zb.github.io/publication/3dilg/</link>
+      <pubDate>Wed, 12 Oct 2022 23:42:44 +0300</pubDate>
+      <guid>https://1zb.github.io/publication/3dilg/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Training Data Generating Networks: Shape Reconstruction via Bi-level Optimization</title>
