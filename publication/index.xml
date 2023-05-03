@@ -5,12 +5,20 @@
     <link>https://1zb.github.io/publication/</link>
       <atom:link href="https://1zb.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 12 Oct 2022 23:42:44 +0300</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 02 May 2023 23:42:44 +0300</lastBuildDate>
     <image>
       <url>https://1zb.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Publications</title>
       <link>https://1zb.github.io/publication/</link>
     </image>
+    
+    <item>
+      <title>3DShape2VecSet: A 3d shape representation for neural fields and generative diffusion models</title>
+      <link>https://1zb.github.io/publication/3dshape2vecset/</link>
+      <pubDate>Tue, 02 May 2023 23:42:44 +0300</pubDate>
+      <guid>https://1zb.github.io/publication/3dshape2vecset/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>3DILG: Irregular Latent Grids for 3D Generative Modeling</title>

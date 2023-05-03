@@ -33,10 +33,10 @@
   
     
   
-  <meta name="description" content="We proposed a method for representing shapes as irregular latent grids. This representation enables 3d generative modeling with autoregressive transformers." />
+  <meta name="description" content="We introduce 3DShape2VecSet, a novel shape representation for neural fields designed for generative diffusion models. Our shape representation can encode 3D shapes given as surface models or point clouds, and represents them as neural fields. The concept of neural fields has previously been combined with a global latent vector, a regular grid of latent vectors, or an irregular grid of latent vectors. Our new representation encodes neural fields on top of a set of vectors. We draw from multiple concepts, such as the radial basis function representation and the cross attention and self-attention function, to design a learnable representation that is especially suitable for processing with transformers. Our results show improved performance in 3D shape encoding and 3D shape generative modeling tasks. We demonstrate a wide variety of generative applications: unconditioned generation, category-conditioned generation, text-conditioned generation, point-cloud completion, and image-conditioned generation." />
 
   
-  <link rel="alternate" hreflang="en-us" href="https://1zb.github.io/publication/3dilg/" />
+  <link rel="alternate" hreflang="en-us" href="https://1zb.github.io/publication/3dshape2vecset/" />
 
   
 
@@ -318,7 +318,7 @@
   <link rel="icon" type="image/png" href="/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_32x32_fill_lanczos_center_2.png" />
   <link rel="apple-touch-icon" type="image/png" href="/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_180x180_fill_lanczos_center_2.png" />
 
-  <link rel="canonical" href="https://1zb.github.io/publication/3dilg/" />
+  <link rel="canonical" href="https://1zb.github.io/publication/3dshape2vecset/" />
 
   
   
@@ -335,18 +335,18 @@
   <meta property="twitter:card" content="summary" />
   
   <meta property="og:site_name" content="Biao Zhang (张彪)" />
-  <meta property="og:url" content="https://1zb.github.io/publication/3dilg/" />
-  <meta property="og:title" content="3DILG: Irregular Latent Grids for 3D Generative Modeling | Biao Zhang (张彪)" />
-  <meta property="og:description" content="We proposed a method for representing shapes as irregular latent grids. This representation enables 3d generative modeling with autoregressive transformers." /><meta property="og:image" content="https://1zb.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png" />
+  <meta property="og:url" content="https://1zb.github.io/publication/3dshape2vecset/" />
+  <meta property="og:title" content="3DShape2VecSet: A 3d shape representation for neural fields and generative diffusion models | Biao Zhang (张彪)" />
+  <meta property="og:description" content="We introduce 3DShape2VecSet, a novel shape representation for neural fields designed for generative diffusion models. Our shape representation can encode 3D shapes given as surface models or point clouds, and represents them as neural fields. The concept of neural fields has previously been combined with a global latent vector, a regular grid of latent vectors, or an irregular grid of latent vectors. Our new representation encodes neural fields on top of a set of vectors. We draw from multiple concepts, such as the radial basis function representation and the cross attention and self-attention function, to design a learnable representation that is especially suitable for processing with transformers. Our results show improved performance in 3D shape encoding and 3D shape generative modeling tasks. We demonstrate a wide variety of generative applications: unconditioned generation, category-conditioned generation, text-conditioned generation, point-cloud completion, and image-conditioned generation." /><meta property="og:image" content="https://1zb.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png" />
     <meta property="twitter:image" content="https://1zb.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png" /><meta property="og:locale" content="en-us" />
   
     
       <meta
         property="article:published_time"
-        content="2022-10-12T23:42:44&#43;03:00"
+        content="2022-05-02T23:42:44&#43;03:00"
       />
     
-    <meta property="article:modified_time" content="2022-10-12T23:42:44&#43;03:00">
+    <meta property="article:modified_time" content="2023-05-02T23:42:44&#43;03:00">
   
 
   
@@ -368,12 +368,12 @@
   "@type": "Article",
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://1zb.github.io/publication/3dilg/"
+    "@id": "https://1zb.github.io/publication/3dshape2vecset/"
   },
-  "headline": "3DILG: Irregular Latent Grids for 3D Generative Modeling",
+  "headline": "3DShape2VecSet: A 3d shape representation for neural fields and generative diffusion models",
   
-  "datePublished": "2022-10-12T23:42:44+03:00",
-  "dateModified": "2022-10-12T23:42:44+03:00",
+  "datePublished": "2022-05-02T23:42:44+03:00",
+  "dateModified": "2023-05-02T23:42:44+03:00",
   
   "author": {
     "@type": "Person",
@@ -388,7 +388,7 @@
       "url": "https://1zb.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_192x192_fill_lanczos_center_2.png"
     }
   },
-  "description": "We proposed a method for representing shapes as irregular latent grids. This representation enables 3d generative modeling with autoregressive transformers."
+  "description": "We introduce 3DShape2VecSet, a novel shape representation for neural fields designed for generative diffusion models. Our shape representation can encode 3D shapes given as surface models or point clouds, and represents them as neural fields. The concept of neural fields has previously been combined with a global latent vector, a regular grid of latent vectors, or an irregular grid of latent vectors. Our new representation encodes neural fields on top of a set of vectors. We draw from multiple concepts, such as the radial basis function representation and the cross attention and self-attention function, to design a learnable representation that is especially suitable for processing with transformers. Our results show improved performance in 3D shape encoding and 3D shape generative modeling tasks. We demonstrate a wide variety of generative applications: unconditioned generation, category-conditioned generation, text-conditioned generation, point-cloud completion, and image-conditioned generation."
 }
 </script>
 
@@ -404,11 +404,11 @@
 
 
 
-  <title>3DILG: Irregular Latent Grids for 3D Generative Modeling | Biao Zhang (张彪)</title>
+  <title>3DShape2VecSet: A 3d shape representation for neural fields and generative diffusion models | Biao Zhang (张彪)</title>
 </head>
 
 
-<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class="page-wrapper   " data-wc-page-id="b95d554b183aae8763437201ca8e085b" >
+<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class="page-wrapper   " data-wc-page-id="a372d20345c49ea99c5853313c1c17ce" >
 
   
   
@@ -698,7 +698,7 @@
   
   
 <div class="article-container pt-3">
-  <h1>3DILG: Irregular Latent Grids for 3D Generative Modeling</h1>
+  <h1>3DShape2VecSet: A 3d shape representation for neural fields and generative diffusion models</h1>
 
   
 
@@ -717,6 +717,7 @@
 
   <span class="author-highlighted">
       Biao Zhang</span>, <span >
+      Jiapeng Tang</span>, <span >
       Matthias Niessner</span>, <span >
       Peter Wonka</span>
   </div>
@@ -729,7 +730,7 @@
     
       
     
-    October 2022
+    May 2023
   </span>
   
 
@@ -772,7 +773,7 @@
 
 
 <a href="#" class="btn btn-outline-primary btn-page-header js-cite-modal"
-        data-filename="/publication/3dilg/cite.bib">
+        data-filename="/publication/3dshape2vecset/cite.bib">
   Cite
 </a>
 
@@ -798,7 +799,7 @@
   
     
   
-  <a class="btn btn-outline-primary btn-page-header" href="https://arxiv.org/abs/2205.13914" target="_blank" rel="noopener">
+  <a class="btn btn-outline-primary btn-page-header" href="https://arxiv.org/abs/2301.11445" target="_blank" rel="noopener">
     <i class="ai ai-arxiv mr-1"></i>
     arxiv
   </a>
@@ -814,7 +815,7 @@
   
     
   
-  <a class="btn btn-outline-primary btn-page-header" href="https://github.com/1zb/3DILG/" target="_blank" rel="noopener">
+  <a class="btn btn-outline-primary btn-page-header" href="https://github.com/1zb/3DShape2VecSet/" target="_blank" rel="noopener">
     <i class="fas fa-code mr-1"></i>
     Code
   </a>
@@ -822,15 +823,17 @@
   
   
   
+    
+  
   
   
   
   
     
   
-  <a class="btn btn-outline-primary btn-page-header" href="https://openreview.net/forum?id=RO0wSr3R7y-" target="_blank" rel="noopener">
-    <i class="fa fa-file-pdf mr-1"></i>
-    OpenReview
+  <a class="btn btn-outline-primary btn-page-header" href="https://www.youtube.com/watch?v=KKQsQccpBFk" target="_blank" rel="noopener">
+    <i class="fab fa-youtube mr-1"></i>
+    Video
   </a>
 
   
@@ -842,7 +845,7 @@
   
     
   
-  <a class="btn btn-outline-primary btn-page-header" href="https://1zb.github.io/3DILG/" target="_blank" rel="noopener">
+  <a class="btn btn-outline-primary btn-page-header" href="https://1zb.github.io/3DShape2VecSet" target="_blank" rel="noopener">
     <i class="fa fa-globe mr-1"></i>
     Project Website
   </a>
@@ -860,7 +863,7 @@
 
     
     <h3>Abstract</h3>
-    <p class="pub-abstract">We propose a new representation for encoding 3D shapes as neural fields. The representation is designed to be compatible with the transformer architecture and to benefit both shape reconstruction and shape generation. Existing works on neural fields are grid-based representations with latents being defined on a regular grid. In contrast, we define latents on irregular grids which facilitates our representation to be sparse and adaptive. In the context of shape reconstruction from point clouds, our shape representation built on irregular grids improves upon grid-based methods in terms of reconstruction accuracy. For shape generation, our representation promotes high-quality shape generation using auto-regressive probabilistic models. We show different applications that improve over the current state of the art. First, we show results of probabilistic shape reconstruction from a single higher resolution image. Second, we train a probabilistic model conditioned on very low resolution images. Third, we apply our model to category-conditioned generation. All probabilistic experiments confirm that we are able to generate detailed and high quality shapes to yield the new state of the art in generative 3D shape modeling.</p>
+    <p class="pub-abstract">We introduce 3DShape2VecSet, a novel shape representation for neural fields designed for generative diffusion models. Our shape representation can encode 3D shapes given as surface models or point clouds, and represents them as neural fields. The concept of neural fields has previously been combined with a global latent vector, a regular grid of latent vectors, or an irregular grid of latent vectors. Our new representation encodes neural fields on top of a set of vectors. We draw from multiple concepts, such as the radial basis function representation and the cross attention and self-attention function, to design a learnable representation that is especially suitable for processing with transformers. Our results show improved performance in 3D shape encoding and 3D shape generative modeling tasks. We demonstrate a wide variety of generative applications: unconditioned generation, category-conditioned generation, text-conditioned generation, point-cloud completion, and image-conditioned generation.</p>
     
 
     
@@ -871,8 +874,8 @@
         <div class="row">
           <div class="col-12 col-md-3 pub-row-heading">Type</div>
           <div class="col-12 col-md-9">
-            <a href="/publication/#1">
-              Conference paper
+            <a href="/publication/#2">
+              Journal article
             </a>
           </div>
         </div>
@@ -888,7 +891,7 @@
       <div class="col-md-10">
         <div class="row">
           <div class="col-12 col-md-3 pub-row-heading">Publication</div>
-          <div class="col-12 col-md-9">In <em>Thirty-Sixth Conference on Neural Information Processing Systems</em></div>
+          <div class="col-12 col-md-9">In <em>ACM Transactions on Graphics</em></div>
         </div>
       </div>
       <div class="col-md-1"></div>
@@ -920,7 +923,7 @@
       
       
       <li>
-        <a href="https://twitter.com/intent/tweet?url=https://1zb.github.io/publication/3dilg/&amp;text=3DILG:%20Irregular%20Latent%20Grids%20for%203D%20Generative%20Modeling" target="_blank" rel="noopener" class="share-btn-twitter">
+        <a href="https://twitter.com/intent/tweet?url=https://1zb.github.io/publication/3dshape2vecset/&amp;text=3DShape2VecSet:%20A%203d%20shape%20representation%20for%20neural%20fields%20and%20generative%20diffusion%20models" target="_blank" rel="noopener" class="share-btn-twitter">
           <i class="fab fa-twitter"></i>
         </a>
       </li>
@@ -933,7 +936,7 @@
       
       
       <li>
-        <a href="https://www.facebook.com/sharer.php?u=https://1zb.github.io/publication/3dilg/&amp;t=3DILG:%20Irregular%20Latent%20Grids%20for%203D%20Generative%20Modeling" target="_blank" rel="noopener" class="share-btn-facebook">
+        <a href="https://www.facebook.com/sharer.php?u=https://1zb.github.io/publication/3dshape2vecset/&amp;t=3DShape2VecSet:%20A%203d%20shape%20representation%20for%20neural%20fields%20and%20generative%20diffusion%20models" target="_blank" rel="noopener" class="share-btn-facebook">
           <i class="fab fa-facebook"></i>
         </a>
       </li>
@@ -946,7 +949,7 @@
       
       
       <li>
-        <a href="mailto:?subject=3DILG:%20Irregular%20Latent%20Grids%20for%203D%20Generative%20Modeling&amp;body=https://1zb.github.io/publication/3dilg/" target="_blank" rel="noopener" class="share-btn-email">
+        <a href="mailto:?subject=3DShape2VecSet:%20A%203d%20shape%20representation%20for%20neural%20fields%20and%20generative%20diffusion%20models&amp;body=https://1zb.github.io/publication/3dshape2vecset/" target="_blank" rel="noopener" class="share-btn-email">
           <i class="fas fa-envelope"></i>
         </a>
       </li>
@@ -959,7 +962,7 @@
       
       
       <li>
-        <a href="https://www.linkedin.com/shareArticle?url=https://1zb.github.io/publication/3dilg/&amp;title=3DILG:%20Irregular%20Latent%20Grids%20for%203D%20Generative%20Modeling" target="_blank" rel="noopener" class="share-btn-linkedin">
+        <a href="https://www.linkedin.com/shareArticle?url=https://1zb.github.io/publication/3dshape2vecset/&amp;title=3DShape2VecSet:%20A%203d%20shape%20representation%20for%20neural%20fields%20and%20generative%20diffusion%20models" target="_blank" rel="noopener" class="share-btn-linkedin">
           <i class="fab fa-linkedin-in"></i>
         </a>
       </li>
@@ -972,7 +975,7 @@
       
       
       <li>
-        <a href="whatsapp://send?text=3DILG:%20Irregular%20Latent%20Grids%20for%203D%20Generative%20Modeling%20https://1zb.github.io/publication/3dilg/" target="_blank" rel="noopener" class="share-btn-whatsapp">
+        <a href="whatsapp://send?text=3DShape2VecSet:%20A%203d%20shape%20representation%20for%20neural%20fields%20and%20generative%20diffusion%20models%20https://1zb.github.io/publication/3dshape2vecset/" target="_blank" rel="noopener" class="share-btn-whatsapp">
           <i class="fab fa-whatsapp"></i>
         </a>
       </li>
@@ -985,7 +988,7 @@
       
       
       <li>
-        <a href="https://service.weibo.com/share/share.php?url=https://1zb.github.io/publication/3dilg/&amp;title=3DILG:%20Irregular%20Latent%20Grids%20for%203D%20Generative%20Modeling" target="_blank" rel="noopener" class="share-btn-weibo">
+        <a href="https://service.weibo.com/share/share.php?url=https://1zb.github.io/publication/3dshape2vecset/&amp;title=3DShape2VecSet:%20A%203d%20shape%20representation%20for%20neural%20fields%20and%20generative%20diffusion%20models" target="_blank" rel="noopener" class="share-btn-weibo">
           <i class="fab fa-weibo"></i>
         </a>
       </li>
@@ -1083,6 +1086,12 @@
 
     </div>
   </div>
+
+
+  
+    
+
+
 
 
   
