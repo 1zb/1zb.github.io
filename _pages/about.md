@@ -120,7 +120,8 @@ Wei Cao\*, Chang Luo\*, **Biao Zhang**, Matthias Niessner, Jiapeng Tang
 [**Project**](https://1zb.github.io/3DShape2VecSet), [**Code** (Legacy)](https://github.com/1zb/3DShape2VecSet/),  [**Code** (Latest)](https://github.com/1zb/VecSetX/)
 
 - The work has been integrated into some large 3D foundation models, such as Tripo, CLAY, and Hunyuan3D.
-
+- I gave a talk about this work in [Towards 3D Foundation Models: Progress and Prospects](https://3dfm.github.io)
+- Online talk [Meshy](https://www.bilibili.com/video/BV1WP411d777/), [GAMES Webinar 1](https://www.bilibili.com/video/BV1BH4y1X7zW/), [GAMES Webinar 2](https://www.bilibili.com/video/BV1CvsQeMEDd/)
 </div>
 </div>
 
@@ -167,6 +168,7 @@ Jing Ren, **Biao Zhang**, Bojian Wu, Jianqiang Huang, Lubin Fan, Maks Ovsjanikov
 
 <!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
+- Featured in [CVPR 2021 ScanNet workshop](http://www.scan-net.org/cvpr2021workshop/).
 </div>
 </div>
 
