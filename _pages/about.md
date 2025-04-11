@@ -117,7 +117,7 @@ Wei Cao\*, Chang Luo\*, **Biao Zhang**, Matthias Niessner, Jiapeng Tang
 
 **Biao Zhang**, Peter Wonka
 
-[**Project**](https://1zb.github.io/3DShape2VecSet), [**Code** (Legacy)](https://github.com/1zb/3DShape2VecSet/),  [**Code** (Latest)](https://github.com/1zb/VecSetX/)
+[**Project**](https://1zb.github.io/3DShape2VecSet), [**Code** (Legacy)](https://github.com/1zb/3DShape2VecSet/),  [**Code** (Latest)](https://github.com/1zb/VecSetX/), , [**ToG**](https://dl.acm.org/doi/10.1145/3592442)
 
 - The work has been integrated into some large 3D foundation models, such as Tripo, CLAY, and Hunyuan3D.
 - I gave a talk about this work in [Towards 3D Foundation Models: Progress and Prospects](https://3dfm.github.io)
