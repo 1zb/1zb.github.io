@@ -27,6 +27,32 @@ My research interest includes machine learning, generative models, computer grah
 
 # 📚 Preprints
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv 2025</div><img src='images/arxiv-v2m4.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[V2M4: 4D Mesh Animation Reconstruction from a Single Monocular Video
+](https://arxiv.org/abs/2503.09631)
+
+Jianqi Chen, **Biao Zhang**, Xiangjun Tang, Peter Wonka
+
+[**Project**](https://windvchen.github.io/V2M4/)
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv 2025</div><img src='images/arxiv-human.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Generative Human Geometry Distribution
+](https://arxiv.org/abs/2503.01448)
+
+Xiangjun Tang, **Biao Zhang**, Peter Wonka
+
+<!-- [**Project**](https://ruili3.github.io/lari), [**Code**](https://ruili3.github.io/lari) -->
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv 2025</div><img src='images/arxiv-lari.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -131,7 +157,7 @@ Wei Cao\*, Chang Luo\*, **Biao Zhang**, Matthias Niessner, Jiapeng Tang
 
 [**Project**](https://1zb.github.io/3DShape2VecSet), [**Code** (Legacy)](https://github.com/1zb/3DShape2VecSet/),  [**Code** (Latest)](https://github.com/1zb/VecSetX/), [**ToG**](https://dl.acm.org/doi/10.1145/3592442)
 
-- The work has been integrated into some large 3D foundation models, such as Tripo, CLAY, and Hunyuan3D.
+- The work has been integrated into some large 3D foundation models, such as VAST/Tripo, CLAY, and Hunyuan3D.
 - I gave a talk about this work in [Towards 3D Foundation Models: Progress and Prospects](https://3dfm.github.io)
 - Online talk [Meshy](https://www.bilibili.com/video/BV1WP411d777/), [GAMES Webinar 1](https://www.bilibili.com/video/BV1BH4y1X7zW/), [GAMES Webinar 2](https://www.bilibili.com/video/BV1CvsQeMEDd/)
 </div>
