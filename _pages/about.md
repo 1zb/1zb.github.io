@@ -27,6 +27,18 @@ My research interest includes machine learning, generative models, computer grah
 
 # 📚 Preprints
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv 2025</div><img src='images/arxiv-lari.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[LaRI: Layered Ray Intersections for Single-view 3D Geometric Reasoning
+](https://arxiv.org/abs/2504.18424)
+
+Rui Li, **Biao Zhang**, Zhenyu Li, Federico Tombari, Peter Wonka
+
+[**Project**](https://ruili3.github.io/lari), [**Code**](https://ruili3.github.io/lari)
+
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv 2025</div><img src='images/arxiv-iflame.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
