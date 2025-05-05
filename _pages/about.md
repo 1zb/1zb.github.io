@@ -62,7 +62,7 @@ Hanxiao Wang, **Biao Zhang**📧, Weize Quan, Dong-Ming Yan, Peter Wonka
 <div class='paper-box-text' markdown="1">
 
 [LaGeM: A Large Geometry Model for 3D Representation Learning and Diffusion
-](https://arxiv.org/abs/2410.01295)
+](https://arxiv.org/abs/2410.01295) (<span style="color:blue">*ICLR 2025*</span>)
 
 **Biao Zhang**, Peter Wonka
 
@@ -75,7 +75,7 @@ Hanxiao Wang, **Biao Zhang**📧, Weize Quan, Dong-Ming Yan, Peter Wonka
 <div class='paper-box-text' markdown="1">
 
 [Vivid-ZOO: Multi-View Video Generation with Diffusion Model
-](https://arxiv.org/pdf/2406.08659v1)
+](https://arxiv.org/pdf/2406.08659v1) (<span style="color:blue">*NeurIPS 2024*</span>)
 
 Bing Li\*, Cheng Zheng\*, Wenxuan Zhu\*, Jinjie Mai, **Biao Zhang**, Peter Wonka, Bernard Ghanem
 
@@ -88,7 +88,7 @@ Bing Li\*, Cheng Zheng\*, Wenxuan Zhu\*, Jinjie Mai, **Biao Zhang**, Peter Wonka
 <div class='paper-box-text' markdown="1">
 
 [Functional Diffusion
-](https://arxiv.org/abs/2311.15435)
+](https://arxiv.org/abs/2311.15435) (<span style="color:blue">*CVPR 2024*</span>)
 
 **Biao Zhang**, Peter Wonka
 
@@ -101,7 +101,7 @@ Bing Li\*, Cheng Zheng\*, Wenxuan Zhu\*, Jinjie Mai, **Biao Zhang**, Peter Wonka
 <div class='paper-box-text' markdown="1">
 
 [Motion2VecSets: 4D Latent Vector Set Diffusion for Non-rigid Shape Reconstruction and Tracking
-](https://arxiv.org/abs/2401.06614)
+](https://arxiv.org/abs/2401.06614) (<span style="color:blue">*CVPR 2024*</span>)
 
 Wei Cao\*, Chang Luo\*, **Biao Zhang**, Matthias Niessner, Jiapeng Tang
 
@@ -113,7 +113,7 @@ Wei Cao\*, Chang Luo\*, **Biao Zhang**, Matthias Niessner, Jiapeng Tang
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">SIGGRAPH 2023 (ToG)</div><img src='images/sg2023.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[3DShape2VecSet: A 3d shape representation for neural fields and generative diffusion models](https://arxiv.org/abs/2205.13914)
+[3DShape2VecSet: A 3d shape representation for neural fields and generative diffusion models](https://arxiv.org/abs/2205.13914) (<span style="color:blue">*SIGGRAPH 2023*</span>)
 
 **Biao Zhang**, Peter Wonka
 
@@ -128,7 +128,7 @@ Wei Cao\*, Chang Luo\*, **Biao Zhang**, Matthias Niessner, Jiapeng Tang
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2022</div><img src='images/neurips2022.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[3DILG: Irregular Latent Grids for 3D Generative Modeling](https://arxiv.org/abs/2205.13914)
+[3DILG: Irregular Latent Grids for 3D Generative Modeling](https://arxiv.org/abs/2205.13914) (<span style="color:blue">*NeurIPS 2022*</span>)
 
 **Biao Zhang**, Peter Wonka
 
@@ -141,7 +141,7 @@ Wei Cao\*, Chang Luo\*, **Biao Zhang**, Matthias Niessner, Jiapeng Tang
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2022</div><img src='images/iclr2022.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Training Data Generating Networks: Shape Reconstruction via Bi-level Optimization](https://arxiv.org/abs/2010.08276)
+[Training Data Generating Networks: Shape Reconstruction via Bi-level Optimization](https://arxiv.org/abs/2010.08276) (<span style="color:blue">*ICLR 2022*</span>)
 
 **Biao Zhang**, Peter Wonka
 
@@ -151,7 +151,7 @@ Wei Cao\*, Chang Luo\*, **Biao Zhang**, Matthias Niessner, Jiapeng Tang
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Siggraph Asia 2021 (ToG)</div><img src='images/sga2021.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Intuitive and Efficient Roof Modeling for Reconstruction and Synthesis](https://arxiv.org/abs/2109.07683)
+[Intuitive and Efficient Roof Modeling for Reconstruction and Synthesis](https://arxiv.org/abs/2109.07683) (<span style="color:blue">*SIGGRAPH Asia 2021*</span>)
 
 Jing Ren, **Biao Zhang**, Bojian Wu, Jianqiang Huang, Lubin Fan, Maks Ovsjanikov, Peter Wonka
 
@@ -162,7 +162,7 @@ Jing Ren, **Biao Zhang**, Bojian Wu, Jianqiang Huang, Lubin Fan, Maks Ovsjanikov
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2021</div><img src='images/cvpr2021.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Point cloud instance segmentation using probabilistic embeddings](https://arxiv.org/abs/1912.00145)
+[Point cloud instance segmentation using probabilistic embeddings](https://arxiv.org/abs/1912.00145) (<span style="color:blue">*CVPR 2021*</span>)
 
 **Biao Zhang**, Peter Wonka
 
