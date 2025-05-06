@@ -96,6 +96,19 @@ Hanxiao Wang, **Biao Zhang**📧, Weize Quan, Dong-Ming Yan, Peter Wonka
 
 # 📝 Publications
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SIGGRAPH 2025</div><img src='images/sg2025-matclip.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[MatCLIP: Light-and Shape-Insensitive Assignment of PBR Material Models
+](https://arxiv.org/abs/2501.15981) (<span style="color:blue">*SIGGRAPH 2025 Conf*</span>)
+
+Michael Birsak, John Femiani, **Biao Zhang**, Peter Wonka
+
+<!-- [**Project**](https://1zb.github.io/LaGeM), [**Code**](https://github.com/1zb/LaGeM), [**OpenReview**](https://openreview.net/forum?id=72OSO38a2z) -->
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2025</div><img src='images/iclr2025.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
