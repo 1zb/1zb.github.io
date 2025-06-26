@@ -29,18 +29,6 @@ My research interest includes machine learning, generative models, computer grah
 
 # 📚 Preprints
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv 2025</div><img src='images/arxiv-v2m4.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[V2M4: 4D Mesh Animation Reconstruction from a Single Monocular Video
-](https://arxiv.org/abs/2503.09631)
-
-Jianqi Chen, **Biao Zhang**, Xiangjun Tang, Peter Wonka
-
-[**Project**](https://windvchen.github.io/V2M4/)
-
-</div>
-</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv 2025</div><img src='images/arxiv-human.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -81,11 +69,17 @@ Hanxiao Wang, **Biao Zhang**📧, Weize Quan, Dong-Ming Yan, Peter Wonka
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv 2024</div><img src='images/arxiv-geomdist.png' alt="sym" width="100%"></div></div>
+
+
+
+
+# 📝 Publications
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='images/iccv-geomdist.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Geometry Distributions
-](https://arxiv.org/abs/2411.16076)
+](https://arxiv.org/abs/2411.16076) (<span style="color:blue">*ICCV 2025*</span>)
 
 **Biao Zhang**, Jing Ren, Peter Wonka
 
@@ -94,9 +88,18 @@ Hanxiao Wang, **Biao Zhang**📧, Weize Quan, Dong-Ming Yan, Peter Wonka
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='images/iccv-v2m4.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
+[V2M4: 4D Mesh Animation Reconstruction from a Single Monocular Video
+](https://arxiv.org/abs/2503.09631) (<span style="color:blue">*ICCV 2025*</span>)
 
-# 📝 Publications
+Jianqi Chen, **Biao Zhang**, Xiangjun Tang, Peter Wonka
+
+[**Project**](https://windvchen.github.io/V2M4/)
+
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">SIGGRAPH 2025</div><img src='images/sg2025-matclip.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
