@@ -224,7 +224,7 @@ Jing Ren, **Biao Zhang**, Bojian Wu, Jianqiang Huang, Lubin Fan, Maks Ovsjanikov
 
 [**Code**](https://github.com/llorz/SGA21_roofOptimization)
 
- <span style="color:blue">*SIGGRAPH Asia 2021 (ToG) *</span>
+ <span style="color:blue">*SIGGRAPH Asia 2021 (ToG)*</span>
 </div>
 </div>
 
