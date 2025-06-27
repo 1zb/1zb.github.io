@@ -79,11 +79,13 @@ Hanxiao Wang, **Biao Zhang**📧, Weize Quan, Dong-Ming Yan, Peter Wonka
 <div class='paper-box-text' markdown="1">
 
 [Geometry Distributions
-](https://arxiv.org/abs/2411.16076) (<span style="color:blue">*ICCV 2025*</span>)
+](https://arxiv.org/abs/2411.16076) 
 
 **Biao Zhang**, Jing Ren, Peter Wonka
 
 [**Project**](https://1zb.github.io/GeomDist/), [**Code**](https://github.com/1zb/GeomDist)
+
+<span style="color:blue">*ICCV 2025*</span>
 
 </div>
 </div>
@@ -92,11 +94,13 @@ Hanxiao Wang, **Biao Zhang**📧, Weize Quan, Dong-Ming Yan, Peter Wonka
 <div class='paper-box-text' markdown="1">
 
 [V2M4: 4D Mesh Animation Reconstruction from a Single Monocular Video
-](https://arxiv.org/abs/2503.09631) (<span style="color:blue">*ICCV 2025*</span>)
+](https://arxiv.org/abs/2503.09631) 
 
 Jianqi Chen, **Biao Zhang**, Xiangjun Tang, Peter Wonka
 
 [**Project**](https://windvchen.github.io/V2M4/)
+
+<span style="color:blue">*ICCV 2025*</span>
 
 </div>
 </div>
@@ -105,12 +109,13 @@ Jianqi Chen, **Biao Zhang**, Xiangjun Tang, Peter Wonka
 <div class='paper-box-text' markdown="1">
 
 [MatCLIP: Light-and Shape-Insensitive Assignment of PBR Material Models
-](https://arxiv.org/abs/2501.15981) (<span style="color:blue">*SIGGRAPH 2025 Conf*</span>)
+](https://arxiv.org/abs/2501.15981) 
 
 Michael Birsak, John Femiani, **Biao Zhang**, Peter Wonka
 
 <!-- [**Project**](https://1zb.github.io/LaGeM), [**Code**](https://github.com/1zb/LaGeM), [**OpenReview**](https://openreview.net/forum?id=72OSO38a2z) -->
 
+<span style="color:blue">*SIGGRAPH 2025 Conference*</span>
 </div>
 </div>
 
@@ -118,12 +123,13 @@ Michael Birsak, John Femiani, **Biao Zhang**, Peter Wonka
 <div class='paper-box-text' markdown="1">
 
 [LaGeM: A Large Geometry Model for 3D Representation Learning and Diffusion
-](https://arxiv.org/abs/2410.01295) (<span style="color:blue">*ICLR 2025*</span>)
+](https://arxiv.org/abs/2410.01295) 
 
 **Biao Zhang**, Peter Wonka
 
 [**Project**](https://1zb.github.io/LaGeM), [**Code**](https://github.com/1zb/LaGeM), [**OpenReview**](https://openreview.net/forum?id=72OSO38a2z)
 
+<span style="color:blue">*ICLR 2025*</span>
 </div>
 </div>
 
@@ -131,12 +137,13 @@ Michael Birsak, John Femiani, **Biao Zhang**, Peter Wonka
 <div class='paper-box-text' markdown="1">
 
 [Vivid-ZOO: Multi-View Video Generation with Diffusion Model
-](https://arxiv.org/pdf/2406.08659v1) (<span style="color:blue">*NeurIPS 2024*</span>)
+](https://arxiv.org/pdf/2406.08659v1) 
 
 Bing Li\*, Cheng Zheng\*, Wenxuan Zhu\*, Jinjie Mai, **Biao Zhang**, Peter Wonka, Bernard Ghanem
 
 [**Project**](https://hi-zhengcheng.github.io/vividzoo/), [**Code**](https://github.com/hi-zhengcheng/vividzoo)
 
+<span style="color:blue">*NeurIPS 2024*</span>
 </div>
 </div>
 
@@ -144,12 +151,13 @@ Bing Li\*, Cheng Zheng\*, Wenxuan Zhu\*, Jinjie Mai, **Biao Zhang**, Peter Wonka
 <div class='paper-box-text' markdown="1">
 
 [Functional Diffusion
-](https://arxiv.org/abs/2311.15435) (<span style="color:blue">*CVPR 2024*</span>)
+](https://arxiv.org/abs/2311.15435) 
 
 **Biao Zhang**, Peter Wonka
 
 [**Project**](https://1zb.github.io/functional-diffusion/), [**Code**](https://1zb.github.io/functional-diffusion/)
 
+<span style="color:blue">*CVPR 2024*</span>
 </div>
 </div>
 
@@ -157,19 +165,20 @@ Bing Li\*, Cheng Zheng\*, Wenxuan Zhu\*, Jinjie Mai, **Biao Zhang**, Peter Wonka
 <div class='paper-box-text' markdown="1">
 
 [Motion2VecSets: 4D Latent Vector Set Diffusion for Non-rigid Shape Reconstruction and Tracking
-](https://arxiv.org/abs/2401.06614) (<span style="color:blue">*CVPR 2024*</span>)
+](https://arxiv.org/abs/2401.06614) 
 
 Wei Cao\*, Chang Luo\*, **Biao Zhang**, Matthias Niessner, Jiapeng Tang
 
 [**Project**](https://vveicao.github.io/projects/Motion2VecSets/), [**Code**](https://vveicao.github.io/projects/Motion2VecSets/)
 
+<span style="color:blue">*CVPR 2024*</span>
 </div>
 </div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">SIGGRAPH 2023 (ToG)</div><img src='images/sg2023.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[3DShape2VecSet: A 3d shape representation for neural fields and generative diffusion models](https://arxiv.org/abs/2205.13914) (<span style="color:blue">*SIGGRAPH 2023*</span>)
+[3DShape2VecSet: A 3d shape representation for neural fields and generative diffusion models](https://arxiv.org/abs/2205.13914) 
 
 **Biao Zhang**, Peter Wonka
 
@@ -178,19 +187,21 @@ Wei Cao\*, Chang Luo\*, **Biao Zhang**, Matthias Niessner, Jiapeng Tang
 - The work has been integrated into some large 3D foundation models, such as VAST/Tripo, CLAY, and Hunyuan3D.
 - I gave a talk about this work in [Towards 3D Foundation Models: Progress and Prospects](https://3dfm.github.io)
 - Online talk [Meshy](https://www.bilibili.com/video/BV1WP411d777/), [GAMES Webinar 1](https://www.bilibili.com/video/BV1BH4y1X7zW/), [GAMES Webinar 2](https://www.bilibili.com/video/BV1CvsQeMEDd/)
+
+<span style="color:blue">*SIGGRAPH 2023 (ToG)*</span>
 </div>
 </div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2022</div><img src='images/neurips2022.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[3DILG: Irregular Latent Grids for 3D Generative Modeling](https://arxiv.org/abs/2205.13914) (<span style="color:blue">*NeurIPS 2022*</span>)
+[3DILG: Irregular Latent Grids for 3D Generative Modeling](https://arxiv.org/abs/2205.13914) 
 
 **Biao Zhang**, Peter Wonka
 
 [**Project**](https://1zb.github.io/3DILG/), [**Code**](https://github.com/1zb/3DILG/)
 
-
+<span style="color:blue">*NeurIPS 2022*</span>
 </div>
 </div>
 
@@ -207,24 +218,28 @@ Wei Cao\*, Chang Luo\*, **Biao Zhang**, Matthias Niessner, Jiapeng Tang
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Siggraph Asia 2021 (ToG)</div><img src='images/sga2021.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Intuitive and Efficient Roof Modeling for Reconstruction and Synthesis](https://arxiv.org/abs/2109.07683) (<span style="color:blue">*SIGGRAPH Asia 2021*</span>)
+[Intuitive and Efficient Roof Modeling for Reconstruction and Synthesis](https://arxiv.org/abs/2109.07683)
 
 Jing Ren, **Biao Zhang**, Bojian Wu, Jianqiang Huang, Lubin Fan, Maks Ovsjanikov, Peter Wonka
 
 [**Code**](https://github.com/llorz/SGA21_roofOptimization)
+
+ <span style="color:blue">*SIGGRAPH Asia 2021 (ToG) *</span>
 </div>
 </div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2021</div><img src='images/cvpr2021.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Point cloud instance segmentation using probabilistic embeddings](https://arxiv.org/abs/1912.00145) (<span style="color:blue">*CVPR 2021*</span>)
+[Point cloud instance segmentation using probabilistic embeddings](https://arxiv.org/abs/1912.00145) 
 
 **Biao Zhang**, Peter Wonka
 
 <!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 - Featured in [CVPR 2021 ScanNet workshop](http://www.scan-net.org/cvpr2021workshop/).
+
+<span style="color:blue">*CVPR 2021*</span>
 </div>
 </div>
 
