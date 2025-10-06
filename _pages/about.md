@@ -76,7 +76,7 @@ Hanxiao Wang, **Biao Zhang**📧, Weize Quan, Dong-Ming Yan, Peter Wonka
 
 # 📝 Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SIGGRAPH 2025</div><img src='images/sga2025-brep.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SIGGRAPH Asia 2025</div><img src='images/sga2025-brep.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 BrepGPT: Autoregressive B-rep Generation with Voronoi Half-Patch
@@ -91,7 +91,7 @@ Pu Li, Wenhao Zhang, Weize Quan, **Biao Zhang**, Peter Wonka, Dongming Yan
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SIGGRAPH 2025</div><img src='images/sga2025-tree.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SIGGRAPH Asia 2025</div><img src='images/sga2025-tree.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Autoregressive Generation of Static and Growing Trees
