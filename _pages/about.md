@@ -75,6 +75,36 @@ Hanxiao Wang, **Biao Zhang**📧, Weize Quan, Dong-Ming Yan, Peter Wonka
 
 # 📝 Publications
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SIGGRAPH 2025</div><img src='images/sga2025-brep.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+BrepGPT: Autoregressive B-rep Generation with Voronoi Half-Patch
+
+
+Pu Li, Wenhao Zhang, Weize Quan, **Biao Zhang**, Peter Wonka, Dongming Yan
+
+
+<span style="color:blue">*SIGGRAPH Asia 2025 Conference (Conditional)*</span>
+</div>
+</div>
+
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SIGGRAPH 2025</div><img src='images/sga2025-tree.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Autoregressive Generation of Static and Growing Trees
+](https://arxiv.org/abs/2502.04762) 
+
+Hanxiao Wang, **Biao Zhang**, Jonathan Klein, Dominik L. Michels, Dongming Yan, Peter Wonka
+
+<!-- [**Project**](https://1zb.github.io/LaGeM), [**Code**](https://github.com/1zb/LaGeM), [**OpenReview**](https://openreview.net/forum?id=72OSO38a2z) -->
+
+<span style="color:blue">*SIGGRAPH Asia 2025 Conference (Conditional)*</span>
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='images/iccv-geomdist.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -85,7 +115,7 @@ Hanxiao Wang, **Biao Zhang**📧, Weize Quan, Dong-Ming Yan, Peter Wonka
 
 [**Project**](https://1zb.github.io/GeomDist/), [**Code**](https://github.com/1zb/GeomDist)
 
-<span style="color:blue">*ICCV 2025*</span>
+<span style="color:blue">*ICCV 2025*</span> <span style="color:red"> (Highlight)</span>
 
 </div>
 </div>
