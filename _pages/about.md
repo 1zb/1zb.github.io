@@ -22,6 +22,7 @@ My research interest includes machine learning, generative models, computer grah
 
 # 🔥 News
 <!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
+- *2025.10*: I will be attending ICCV 2025 in Hawaii from Oct 18 to Oct 24.
 - *2025.06*: I will be co-organizing the workshop [Ind3D: Enforcing Inductive Bias in 3D Generation](https://ind3dworkshop.github.io/cvpr2025/) on June 12, 2025, during CVPR. Feel free to drop by to chat.
 - *2025.06*: I will be assisting Professor Wonka with his talk at the [2nd Workshop on Urban Scene Modeling](https://usm3d.github.io/) on June 11, 2025, during CVPR. Feel free to drop by to chat.
 - *2025.04*: I will be attending ICLR 2025 in Singapore.
