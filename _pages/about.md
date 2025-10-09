@@ -291,6 +291,18 @@ Jing Ren, **Biao Zhang**, Bojian Wu, Jianqiang Huang, Lubin Fan, Maks Ovsjanikov
 # 💻 Internships
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
 
+# 📝 Notes
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Notes</div><img src='images/notes-muon-2025.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Notes on Muon](assets/pdf/muon_notes.pdf) 
+
+**Biao Zhang**
+
+<!-- <span style="color:blue">*Notes*</span> -->
+</div>
+</div>
+
 # 👪 Collaborators
 People I have worked with (we have at least submitted one paper):
 - [Wei Cao](https://vveicao.github.io) (TU Munich)
