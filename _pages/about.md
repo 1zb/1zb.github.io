@@ -22,7 +22,8 @@ My research interest includes machine learning, generative models, computer grah
 
 # 🔥 News
 <!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
-- *2025.10*: I will be attending ICCV 2025 in Hawaii from Oct 18 to Oct 24.
+- *2025.12*: I will be attending SIGGRAPH Asia 2025 in Hong Kong (China) from Dec 14 to Dec 19.
+- *2025.10*: I will be attending ICCV 2025 in Hawaii (USA) from Oct 18 to Oct 24.
 - *2025.06*: I will be co-organizing the workshop [Ind3D: Enforcing Inductive Bias in 3D Generation](https://ind3dworkshop.github.io/cvpr2025/) on June 12, 2025, during CVPR. Feel free to drop by to chat.
 - *2025.06*: I will be assisting Professor Wonka with his talk at the [2nd Workshop on Urban Scene Modeling](https://usm3d.github.io/) on June 11, 2025, during CVPR. Feel free to drop by to chat.
 - *2025.04*: I will be attending ICLR 2025 in Singapore.
@@ -85,7 +86,7 @@ BrepGPT: Autoregressive B-rep Generation with Voronoi Half-Patch
 Pu Li, Wenhao Zhang, Weize Quan, **Biao Zhang**, Peter Wonka, Dongming Yan
 
 
-<span style="color:blue">*SIGGRAPH Asia 2025 Conference (Conditional)*</span>
+<span style="color:blue">*SIGGRAPH Asia 2025 Conference*</span>
 </div>
 </div>
 
@@ -101,7 +102,7 @@ Hanxiao Wang, **Biao Zhang**, Jonathan Klein, Dominik L. Michels, Dongming Yan, 
 
 <!-- [**Project**](https://1zb.github.io/LaGeM), [**Code**](https://github.com/1zb/LaGeM), [**OpenReview**](https://openreview.net/forum?id=72OSO38a2z) -->
 
-<span style="color:blue">*SIGGRAPH Asia 2025 Conference (Conditional)*</span>
+<span style="color:blue">*SIGGRAPH Asia 2025 Conference*</span>
 </div>
 </div>
 
