@@ -29,10 +29,11 @@ My research interest includes machine learning, generative models, computer grah
 - *2025.04*: I will be attending ICLR 2025 in Singapore.
 
 
-# 📚 Preprints
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv 2025</div><img src='images/arxiv-human.png' alt="sym" width="100%"></div></div>
+# 📝 Publications
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='images/iclr-human.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Generative Human Geometry Distribution
@@ -41,41 +42,11 @@ My research interest includes machine learning, generative models, computer grah
 Xiangjun Tang, **Biao Zhang**, Peter Wonka
 
 <!-- [**Project**](https://ruili3.github.io/lari), [**Code**](https://ruili3.github.io/lari) -->
+<span style="color:blue">*ICLR 2026*</span>
 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv 2025</div><img src='images/arxiv-lari.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[LaRI: Layered Ray Intersections for Single-view 3D Geometric Reasoning
-](https://arxiv.org/abs/2504.18424)
-
-Rui Li, **Biao Zhang**, Zhenyu Li, Federico Tombari, Peter Wonka
-
-[**Project**](https://ruili3.github.io/lari), [**Code**](https://ruili3.github.io/lari)
-
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv 2025</div><img src='images/arxiv-iflame.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[iFlame: Interleaving Full and Linear Attention for Efficient Mesh Generation
-](https://arxiv.org/abs/2503.16653)
-
-Hanxiao Wang, **Biao Zhang**📧, Weize Quan, Dong-Ming Yan, Peter Wonka
-
-[**Project**](https://hanxiaowang00.github.io/iFlame/), [**Code**](https://github.com/hanxiaowang00/iFlame)
-
-</div>
-</div>
-
-
-
-
-
-# 📝 Publications
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">SIGGRAPH Asia 2025</div><img src='images/sga2025-brep.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -86,7 +57,7 @@ BrepGPT: Autoregressive B-rep Generation with Voronoi Half-Patch
 Pu Li, Wenhao Zhang, Weize Quan, **Biao Zhang**, Peter Wonka, Dongming Yan
 
 
-<span style="color:blue">*SIGGRAPH Asia 2025 Conference*</span>
+<span style="color:blue">*SIGGRAPH Asia 2025 Journal*</span>
 </div>
 </div>
 
@@ -291,6 +262,72 @@ Jing Ren, **Biao Zhang**, Bojian Wu, Jianqiang Huang, Lubin Fan, Maks Ovsjanikov
 
 # 💻 Internships
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
+
+
+# 📚 Preprints
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv 2025</div><img src='images/arxiv-animate.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Human Geometry Distribution for 3D Animation Generation](https://arxiv.org/abs/2512.07459)
+
+Xiangjun Tang, **Biao Zhang**, Peter Wonka
+
+<!-- [**Project**](https://github.com/xhanxu/LumiX) -->
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv 2025</div><img src='images/arxiv-lumix.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[LumiX: Structured and Coherent Text-to-Intrinsic Generation](https://arxiv.org/abs/2512.02781)
+
+Xu Han, **Biao Zhang**, Xiangjun Tang, Xianzhi Li, Peter Wonka
+
+[**Project**](https://github.com/xhanxu/LumiX)
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv 2025</div><img src='images/arxiv-posegam.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[PoseGAM: Robust Unseen Object Pose Estimation via Geometry-Aware Multi-View Reasoning](https://arxiv.org/abs/2512.10840)
+
+Jianqi Chen, **Biao Zhang**, Xiangjun Tang, Peter Wonka
+
+[**Project**](https://windvchen.github.io/PoseGAM/)
+
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv 2025</div><img src='images/arxiv-lari.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[LaRI: Layered Ray Intersections for Single-view 3D Geometric Reasoning
+](https://arxiv.org/abs/2504.18424)
+
+Rui Li, **Biao Zhang**, Zhenyu Li, Federico Tombari, Peter Wonka
+
+[**Project**](https://ruili3.github.io/lari), [**Code**](https://ruili3.github.io/lari)
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv 2025</div><img src='images/arxiv-iflame.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[iFlame: Interleaving Full and Linear Attention for Efficient Mesh Generation
+](https://arxiv.org/abs/2503.16653)
+
+Hanxiao Wang, **Biao Zhang**📧, Weize Quan, Dong-Ming Yan, Peter Wonka
+
+[**Project**](https://hanxiaowang00.github.io/iFlame/), [**Code**](https://github.com/hanxiaowang00/iFlame)
+
+</div>
+</div>
 
 # 📝 Notes
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Notes</div><img src='images/notes-muon-2025.png' alt="sym" width="100%"></div></div>
