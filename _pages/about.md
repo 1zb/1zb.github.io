@@ -57,7 +57,7 @@ BrepGPT: Autoregressive B-rep Generation with Voronoi Half-Patch
 Pu Li, Wenhao Zhang, Weize Quan, **Biao Zhang**, Peter Wonka, Dongming Yan
 
 
-<span style="color:blue">*SIGGRAPH Asia 2025 Journal*</span>
+<span style="color:blue">*SIGGRAPH Asia 2025 (ToG)*</span>
 </div>
 </div>
 
