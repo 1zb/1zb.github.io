@@ -34,8 +34,11 @@ My research interest includes machine learning, generative models, computer grah
 
 
 # 📝 Publications
+<div id="publications-wrapper">
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='images/iclr-human.png' alt="sym" width="100%"></div></div>
+<div id="filter-container"></div>
+
+<div class='paper-box' data-tags="3D Generation, Human Avatars"><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='images/iclr-human.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Generative Human Geometry Distribution
@@ -44,16 +47,16 @@ My research interest includes machine learning, generative models, computer grah
 Xiangjun Tang, **Biao Zhang**, Peter Wonka
 
 <!-- [**Project**](https://ruili3.github.io/lari), [**Code**](https://ruili3.github.io/lari) -->
-<span style="color:blue">*ICLR 2026*</span>
+<span style="color:blue">*ICLR 2026*</span> <span style="color:red"> (Oral)</span>
 
 </div>
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SIGGRAPH Asia 2025</div><img src='images/sga2025-brep.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box' data-tags="3D Generation, Brep"><div class='paper-box-image'><div><div class="badge">SIGGRAPH Asia 2025</div><img src='images/sga2025-brep.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-BrepGPT: Autoregressive B-rep Generation with Voronoi Half-Patch
+[BrepGPT: Autoregressive B-rep Generation with Voronoi Half-Patch](https://arxiv.org/abs/2511.22171)
 
 
 Pu Li, Wenhao Zhang, Weize Quan, **Biao Zhang**, Peter Wonka, Dongming Yan
@@ -65,7 +68,7 @@ Pu Li, Wenhao Zhang, Weize Quan, **Biao Zhang**, Peter Wonka, Dongming Yan
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SIGGRAPH Asia 2025</div><img src='images/sga2025-tree.png' alt="sym" width="100%"></div></div>
+<div class='paper-box' data-tags="3D Generation"><div class='paper-box-image'><div><div class="badge">SIGGRAPH Asia 2025</div><img src='images/sga2025-tree.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Autoregressive Generation of Static and Growing Trees
@@ -80,7 +83,7 @@ Hanxiao Wang, **Biao Zhang**, Jonathan Klein, Dominik L. Michels, Dongming Yan, 
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='images/iccv-geomdist.png' alt="sym" width="100%"></div></div>
+<div class='paper-box' data-tags="First Author, 3D Representation"><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='images/iccv-geomdist.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Geometry Distributions
@@ -95,7 +98,7 @@ Hanxiao Wang, **Biao Zhang**, Jonathan Klein, Dominik L. Michels, Dongming Yan, 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='images/iccv-v2m4.png' alt="sym" width="100%"></div></div>
+<div class='paper-box' data-tags="4D Generation"><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='images/iccv-v2m4.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [V2M4: 4D Mesh Animation Reconstruction from a Single Monocular Video
@@ -110,7 +113,7 @@ Jianqi Chen, **Biao Zhang**, Xiangjun Tang, Peter Wonka
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SIGGRAPH 2025</div><img src='images/sg2025-matclip.png' alt="sym" width="100%"></div></div>
+<div class='paper-box' data-tags="3D Generation, Texturing"><div class='paper-box-image'><div><div class="badge">SIGGRAPH 2025</div><img src='images/sg2025-matclip.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [MatCLIP: Light-and Shape-Insensitive Assignment of PBR Material Models
@@ -124,7 +127,7 @@ Michael Birsak, John Femiani, **Biao Zhang**, Peter Wonka
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2025</div><img src='images/iclr2025.png' alt="sym" width="100%"></div></div>
+<div class='paper-box' data-tags="First Author, 3D Generation, 3D Representation"><div class='paper-box-image'><div><div class="badge">ICLR 2025</div><img src='images/iclr2025.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [LaGeM: A Large Geometry Model for 3D Representation Learning and Diffusion
@@ -138,7 +141,7 @@ Michael Birsak, John Femiani, **Biao Zhang**, Peter Wonka
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='images/neurips2024.png' alt="sym" width="100%"></div></div>
+<div class='paper-box' data-tags="4D Generation"><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='images/neurips2024.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Vivid-ZOO: Multi-View Video Generation with Diffusion Model
@@ -152,7 +155,7 @@ Bing Li\*, Cheng Zheng\*, Wenxuan Zhu\*, Jinjie Mai, **Biao Zhang**, Peter Wonka
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/cvpr2024-func.png' alt="sym" width="100%"></div></div>
+<div class='paper-box' data-tags="First Author, 3D Generation"><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/cvpr2024-func.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Functional Diffusion
@@ -166,7 +169,7 @@ Bing Li\*, Cheng Zheng\*, Wenxuan Zhu\*, Jinjie Mai, **Biao Zhang**, Peter Wonka
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/cvpr2024-motion.png' alt="sym" width="100%"></div></div>
+<div class='paper-box' data-tags="4D Generation"><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/cvpr2024-motion.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Motion2VecSets: 4D Latent Vector Set Diffusion for Non-rigid Shape Reconstruction and Tracking
@@ -180,7 +183,7 @@ Wei Cao\*, Chang Luo\*, **Biao Zhang**, Matthias Niessner, Jiapeng Tang
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SIGGRAPH 2023 (ToG)</div><img src='images/sg2023.png' alt="sym" width="100%"></div></div>
+<div class='paper-box' data-tags="First Author, 3D Generation, 3D Representation"><div class='paper-box-image'><div><div class="badge">SIGGRAPH 2023 (ToG)</div><img src='images/sg2023.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [3DShape2VecSet: A 3d shape representation for neural fields and generative diffusion models](https://arxiv.org/abs/2205.13914) 
@@ -197,7 +200,7 @@ Wei Cao\*, Chang Luo\*, **Biao Zhang**, Matthias Niessner, Jiapeng Tang
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2022</div><img src='images/neurips2022.png' alt="sym" width="100%"></div></div>
+<div class='paper-box' data-tags="First Author, 3D Generation, 3D Representation"><div class='paper-box-image'><div><div class="badge">NeurIPS 2022</div><img src='images/neurips2022.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [3DILG: Irregular Latent Grids for 3D Generative Modeling](https://arxiv.org/abs/2205.13914) 
@@ -210,7 +213,7 @@ Wei Cao\*, Chang Luo\*, **Biao Zhang**, Matthias Niessner, Jiapeng Tang
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2022</div><img src='images/iclr2022.png' alt="sym" width="100%"></div></div>
+<div class='paper-box' data-tags="First Author, 3D Representation"><div class='paper-box-image'><div><div class="badge">ICLR 2022</div><img src='images/iclr2022.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Training Data Generating Networks: Shape Reconstruction via Bi-level Optimization](https://arxiv.org/abs/2010.08276) (<span style="color:blue">*ICLR 2022*</span>)
@@ -220,7 +223,7 @@ Wei Cao\*, Chang Luo\*, **Biao Zhang**, Matthias Niessner, Jiapeng Tang
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Siggraph Asia 2021 (ToG)</div><img src='images/sga2021.png' alt="sym" width="100%"></div></div>
+<div class='paper-box' data-tags="3D Generation"><div class='paper-box-image'><div><div class="badge">Siggraph Asia 2021 (ToG)</div><img src='images/sga2021.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Intuitive and Efficient Roof Modeling for Reconstruction and Synthesis](https://arxiv.org/abs/2109.07683)
@@ -233,7 +236,7 @@ Jing Ren, **Biao Zhang**, Bojian Wu, Jianqiang Huang, Lubin Fan, Maks Ovsjanikov
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2021</div><img src='images/cvpr2021.png' alt="sym" width="100%"></div></div>
+<div class='paper-box' data-tags="First Author, 3D Detection"><div class='paper-box-image'><div><div class="badge">CVPR 2021</div><img src='images/cvpr2021.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Point cloud instance segmentation using probabilistic embeddings](https://arxiv.org/abs/1912.00145) 
@@ -264,7 +267,7 @@ Jing Ren, **Biao Zhang**, Bojian Wu, Jianqiang Huang, Lubin Fan, Maks Ovsjanikov
 
 # 💻 Internships
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
-
+</div>
 
 # 📚 Preprints
 
@@ -353,3 +356,114 @@ People I have worked with (we have at least submitted one paper):
 - [Jiapeng Tang](https://tangjiapeng.github.io) (TU Munich)
 - [Hanxiao Wang](https://scholar.google.com/citations?user=rPvC5AkAAAAJ) (CASIA)
 - [Peter Wonka](https://peterwonka.net) (KAUST)
+
+
+
+
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+  const wrapper = document.getElementById('publications-wrapper');
+  if (!wrapper) return;
+
+  const filterContainer = document.getElementById('filter-container');
+  const paperBoxes = wrapper.querySelectorAll('.paper-box');
+  
+  let tagCounts = {}; 
+  let activeTags = new Set();
+
+  // 初始化：生成标签并统计数量
+  paperBoxes.forEach(box => {
+    const tagsAttribute = box.getAttribute('data-tags');
+    if (tagsAttribute) {
+      const tagsList = tagsAttribute.split(',').map(t => t.trim()).filter(t => t);
+      
+      // --- 插入标签到 Links 上方 ---
+      const textContainer = box.querySelector('.paper-box-text');
+      const linksContainer = box.querySelector('.links');
+      
+      if (textContainer && !textContainer.querySelector('.badge-container')) {
+        const badgeContainer = document.createElement('div');
+        badgeContainer.className = 'badge-container';
+        
+        tagsList.forEach(tag => {
+          const badge = document.createElement('span');
+          badge.className = 'inner-tag-badge';
+          badge.textContent = tag;
+          badgeContainer.appendChild(badge);
+        });
+        
+        if (linksContainer) {
+          textContainer.insertBefore(badgeContainer, linksContainer);
+        } else {
+          textContainer.appendChild(badgeContainer);
+        }
+      }
+      // ---------------------------
+
+      tagsList.forEach(tag => {
+        tagCounts[tag] = (tagCounts[tag] || 0) + 1;
+      });
+    }
+  });
+
+  // 生成顶部过滤按钮
+  const sortedTags = Object.keys(tagCounts).sort();
+  if (filterContainer) {
+    filterContainer.innerHTML = ''; 
+    sortedTags.forEach(tag => {
+      const btn = document.createElement('button');
+      btn.className = 'filter-btn';
+      btn.textContent = `${tag} (${tagCounts[tag]})`;
+      
+      btn.onclick = () => {
+        if (activeTags.has(tag)) {
+          activeTags.delete(tag);
+          btn.classList.remove('active');
+        } else {
+          activeTags.add(tag);
+          btn.classList.add('active');
+        }
+        filterPapers(); // 点击后触发过滤和高亮更新
+      };
+      
+      filterContainer.appendChild(btn);
+    });
+  }
+
+  // 🔥 核心逻辑更新：过滤论文 + 高亮标签
+  function filterPapers() {
+    paperBoxes.forEach(box => {
+      // 1. 处理卡片显示/隐藏
+      const boxTagsString = box.getAttribute('data-tags');
+      const boxTags = boxTagsString ? boxTagsString.split(',').map(t => t.trim()) : [];
+      
+      let isVisible = true;
+      if (activeTags.size > 0) {
+        if (boxTags.length === 0) {
+          isVisible = false;
+        } else {
+          // 必须包含所有选中的标签 (AND 逻辑)
+          isVisible = Array.from(activeTags).every(activeTag => boxTags.includes(activeTag));
+        }
+      }
+
+      if (isVisible) {
+        box.classList.remove('hidden');
+      } else {
+        box.classList.add('hidden');
+      }
+
+      // 2. 🔥 处理内部标签的高亮 (即便卡片隐藏了，逻辑上也更新一下，没坏处)
+      const innerBadges = box.querySelectorAll('.inner-tag-badge');
+      innerBadges.forEach(badge => {
+        // 如果这个小标签的文字，存在于 activeTags (顶部选中的集合) 中，就变色
+        if (activeTags.has(badge.textContent)) {
+          badge.classList.add('active');
+        } else {
+          badge.classList.remove('active');
+        }
+      });
+    });
+  }
+});
+</script>
