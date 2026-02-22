@@ -38,6 +38,48 @@ My research interest includes machine learning, generative models, computer grah
 
 <div id="filter-container"></div>
 
+
+<div class='paper-box' data-tags="4D Generation, Human Avatars"><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='images/cvpr-animate.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Human Geometry Distribution for 3D Animation Generation](https://arxiv.org/abs/2512.07459)
+
+Xiangjun Tang, **Biao Zhang**, Peter Wonka
+
+<!-- [**Project**](https://github.com/xhanxu/LumiX) -->
+<span style="color:blue">*CVPR 2026*</span>
+
+</div>
+</div>
+
+<div class='paper-box' data-tags="Image Generation"><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='images/cvpr-lumix.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[LumiX: Structured and Coherent Text-to-Intrinsic Generation](https://arxiv.org/abs/2512.02781)
+
+Xu Han, **Biao Zhang**, Xiangjun Tang, Xianzhi Li, Peter Wonka
+
+[**Project**](https://github.com/xhanxu/LumiX)
+
+<span style="color:blue">*CVPR 2026*</span>
+
+</div>
+</div>
+
+<div class='paper-box' data-tags="3D Detection"><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='images/cvpr-posegam.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[PoseGAM: Robust Unseen Object Pose Estimation via Geometry-Aware Multi-View Reasoning](https://arxiv.org/abs/2512.10840)
+
+Jianqi Chen, **Biao Zhang**, Xiangjun Tang, Peter Wonka
+
+[**Project**](https://windvchen.github.io/PoseGAM/)
+
+<span style="color:blue">*CVPR 2026*</span>
+
+</div>
+</div>
+
 <div class='paper-box' data-tags="3D Generation, Human Avatars"><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='images/iclr-human.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -271,41 +313,6 @@ Jing Ren, **Biao Zhang**, Bojian Wu, Jianqiang Huang, Lubin Fan, Maks Ovsjanikov
 
 # 📚 Preprints
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv 2025</div><img src='images/arxiv-animate.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Human Geometry Distribution for 3D Animation Generation](https://arxiv.org/abs/2512.07459)
-
-Xiangjun Tang, **Biao Zhang**, Peter Wonka
-
-<!-- [**Project**](https://github.com/xhanxu/LumiX) -->
-
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv 2025</div><img src='images/arxiv-lumix.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[LumiX: Structured and Coherent Text-to-Intrinsic Generation](https://arxiv.org/abs/2512.02781)
-
-Xu Han, **Biao Zhang**, Xiangjun Tang, Xianzhi Li, Peter Wonka
-
-[**Project**](https://github.com/xhanxu/LumiX)
-
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv 2025</div><img src='images/arxiv-posegam.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[PoseGAM: Robust Unseen Object Pose Estimation via Geometry-Aware Multi-View Reasoning](https://arxiv.org/abs/2512.10840)
-
-Jianqi Chen, **Biao Zhang**, Xiangjun Tang, Peter Wonka
-
-[**Project**](https://windvchen.github.io/PoseGAM/)
-
-</div>
-</div>
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv 2025</div><img src='images/arxiv-lari.png' alt="sym" width="100%"></div></div>
