@@ -133,7 +133,7 @@ Hanxiao Wang, **Biao Zhang**, Jonathan Klein, Dominik L. Michels, Dongming Yan, 
 
 **Biao Zhang**, Jing Ren, Peter Wonka
 
-[**Project**](https://1zb.github.io/GeomDist/), [**Code**](https://github.com/1zb/GeomDist)
+[**Project**](https://1zb.github.io/GeomDist/), [**Code**](https://github.com/1zb/GeomDist), [**ICCV**](https://openaccess.thecvf.com/content/ICCV2025/html/Zhang_Geometry_Distributions_ICCV_2025_paper.html)
 
 <span style="color:blue">*ICCV 2025*</span> <span style="color:red"> (Highlight)</span>
 
