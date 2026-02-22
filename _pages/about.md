@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-My research interest includes machine learning, generative models, computer grahics, and computer vision... I am an incoming professor of Xi'an Jiaotong University. I obtained PhD Degree in KAUST, working with [Peter Wonka](https://peterwonka.net). Before that, I obtained the BSc and MSc from Xi'an Jiaotong University.
+My research interest includes machine learning, generative models, computer grahics, and computer vision... I am an incoming Professor of Xi'an Jiaotong University. I obtained PhD Degree in KAUST, working with [Peter Wonka](https://peterwonka.net). Before that, I obtained the BSc and MSc from Xi'an Jiaotong University.
 
 <span style="color:red">*Openings: I am always looking for self-motivated students to work with me. If you are interested in my research, feel free to contact me with your CV and a brief research statement.*
 </span>
@@ -44,7 +44,7 @@ My research interest includes machine learning, generative models, computer grah
 [Generative Human Geometry Distribution
 ](https://arxiv.org/abs/2503.01448)
 
-Xiangjun Tang, **Biao Zhang**, Peter Wonka
+Xiangjun Tang, **Biao Zhang**📧, Peter Wonka
 
 <!-- [**Project**](https://ruili3.github.io/lari), [**Code**](https://ruili3.github.io/lari) -->
 <span style="color:blue">*ICLR 2026*</span> <span style="color:red"> (Oral)</span>
