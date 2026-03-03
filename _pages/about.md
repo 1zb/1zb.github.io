@@ -38,6 +38,19 @@ My research interest includes machine learning, generative models, computer grah
 
 <div id="filter-container"></div>
 
+<div class='paper-box' data-tags="3D Generation"><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='images/cvpr2026-mesh.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[FACE: A Face-based Autoregressive Representation for High-Fidelity and Efficient Mesh Generation
+](https://arxiv.org/abs/2603.01515)
+
+Hanxiao Wang, Yuan-Chen Guo, Ying-Tian Liu, Zi-Xin Zou, **Biao Zhang**, Weize Quan, Ding Liang, Yan-Pei Cao, Dong-Ming Yan
+
+<!-- [**Project**](https://github.com/xhanxu/LumiX) -->
+<span style="color:blue">*CVPR 2026*</span>
+
+</div>
+</div>
 
 <div class='paper-box' data-tags="4D Generation, Human Avatars"><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='images/cvpr-animate.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
