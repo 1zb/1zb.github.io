@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-My research interest includes machine learning, generative models, computer grahics, and computer vision... I am an incoming Professor of Xi'an Jiaotong University. I obtained PhD Degree in KAUST, working with [Peter Wonka](https://peterwonka.net). Before that, I obtained the BSc and MSc from Xi'an Jiaotong University.
+My research interest includes machine learning, generative models, computer grahics, and computer vision... I am a Full Professor of Xi'an Jiaotong University. I obtained PhD Degree in KAUST, working with [Peter Wonka](https://peterwonka.net). Before that, I obtained the BSc and MSc from Xi'an Jiaotong University.
 
 <span style="color:red">*Openings: I am always looking for self-motivated students to work with me. If you are interested in my research, feel free to contact me with your CV and a brief research statement.*
 </span>
