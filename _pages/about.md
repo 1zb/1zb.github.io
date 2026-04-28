@@ -88,7 +88,7 @@ Jianqi Chen, **Biao Zhang**, Xiangjun Tang, Peter Wonka
 
 [**Project**](https://windvchen.github.io/PoseGAM/)
 
-<span style="color:blue">*CVPR 2026*</span>
+<span style="color:blue">*CVPR 2026*</span> <span style="color:red"> (Oral)</span>
 
 </div>
 </div>
