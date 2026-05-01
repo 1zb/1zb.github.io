@@ -38,6 +38,22 @@ My research interest includes machine learning, generative models, computer grah
 
 <div id="filter-container"></div>
 
+
+<div class='paper-box'  data-tags="3D Reconstruction, 3D Representation"><div class='paper-box-image'><div><div class="badge">ICML 2026</div><img src='images/icml-lari.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[LaRI: Layered Ray Intersections for Single-view 3D Geometric Reasoning
+](https://arxiv.org/abs/2504.18424)
+
+Rui Li, **Biao Zhang**, Zhenyu Li, Federico Tombari, Peter Wonka
+
+[**Project**](https://ruili3.github.io/lari), [**Code**](https://ruili3.github.io/lari)
+
+<span style="color:blue">*ICML 2026*</span>
+
+</div>
+</div>
+
 <div class='paper-box' data-tags="3D Generation"><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='images/cvpr2026-mesh.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -47,7 +63,7 @@ My research interest includes machine learning, generative models, computer grah
 Hanxiao Wang, Yuan-Chen Guo, Ying-Tian Liu, Zi-Xin Zou, **Biao Zhang**, Weize Quan, Ding Liang, Yan-Pei Cao, Dong-Ming Yan
 
 <!-- [**Project**](https://github.com/xhanxu/LumiX) -->
-<span style="color:blue">*CVPR 2026*</span>
+<span style="color:blue">*CVPR 2026*</span> <span style="color:red"> (Highlight)</span>
 
 </div>
 </div>
@@ -328,18 +344,6 @@ Jing Ren, **Biao Zhang**, Bojian Wu, Jianqiang Huang, Lubin Fan, Maks Ovsjanikov
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv 2025</div><img src='images/arxiv-lari.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[LaRI: Layered Ray Intersections for Single-view 3D Geometric Reasoning
-](https://arxiv.org/abs/2504.18424)
-
-Rui Li, **Biao Zhang**, Zhenyu Li, Federico Tombari, Peter Wonka
-
-[**Project**](https://ruili3.github.io/lari), [**Code**](https://ruili3.github.io/lari)
-
-</div>
-</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv 2025</div><img src='images/arxiv-iflame.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
