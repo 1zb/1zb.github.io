@@ -259,7 +259,7 @@ Wei Cao\*, Chang Luo\*, **Biao Zhang**, Matthias Niessner, Jiapeng Tang
 
 [3DShape2VecSet: A 3d shape representation for neural fields and generative diffusion models](https://arxiv.org/abs/2205.13914) 
 
-**Biao Zhang**, Peter Wonka
+**Biao Zhang**, Jiapeng Tang, Matthias Niessner, Peter Wonka
 
 [**Project**](https://1zb.github.io/3DShape2VecSet), [**Code** (Legacy)](https://github.com/1zb/3DShape2VecSet/),  [**Code** (Latest)](https://github.com/1zb/VecSetX/), [**ToG**](https://dl.acm.org/doi/10.1145/3592442)
 
@@ -276,7 +276,7 @@ Wei Cao\*, Chang Luo\*, **Biao Zhang**, Matthias Niessner, Jiapeng Tang
 
 [3DILG: Irregular Latent Grids for 3D Generative Modeling](https://arxiv.org/abs/2205.13914) 
 
-**Biao Zhang**, Peter Wonka
+**Biao Zhang**, Matthias Niessner, Peter Wonka
 
 [**Project**](https://1zb.github.io/3DILG/), [**Code**](https://github.com/1zb/3DILG/)
 
