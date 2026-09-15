@@ -38,6 +38,19 @@ My research interest includes machine learning, generative models, computer grah
 
 <div id="filter-container"></div>
 
+<div class='paper-box'  data-tags="3D Generation, 3D Representation"><div class='paper-box-image'><div><div class="badge">SIGGRAPH 2026</div><img src='images/sg2026-nexus.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Nexus: Native Mesh Generation with Diffusion
+](https://arxiv.org/abs/2607.13563)
+
+Hanxiao Wang, Ying-Tian Liu, Yuan-Chen Guo, Qi-Yuan Feng, Zi-Xin Zou, Ding Liang, **Biao Zhang**📧, Yan-Pei Cao📧
+
+
+<span style="color:blue">*SIGGRAPH 2026 (ToG)*</span>
+
+</div>
+</div>
 
 <div class='paper-box'  data-tags="3D Reconstruction, 3D Representation"><div class='paper-box-image'><div><div class="badge">ICML 2026</div><img src='images/icml-lari.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
