@@ -372,10 +372,21 @@ Hanxiao Wang, **Biao Zhang**📧, Weize Quan, Dong-Ming Yan, Peter Wonka
 </div>
 
 # 📝 Notes
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Notes</div><img src='images/notes-linear-2026.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Notes on Linear Attention (Oct 2026)](assets/pdf/linear_attn_notes.pdf) 
+
+**Biao Zhang**
+
+<!-- <span style="color:blue">*Notes*</span> -->
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Notes</div><img src='images/notes-muon-2025.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Notes on Muon](assets/pdf/muon_notes.pdf) 
+[Notes on Muon (Oct 2025)](assets/pdf/muon_notes.pdf) 
 
 **Biao Zhang**
 
