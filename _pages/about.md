@@ -372,7 +372,7 @@ Hanxiao Wang, **Biao Zhang**📧, Weize Quan, Dong-Ming Yan, Peter Wonka
 </div>
 
 # 📝 Notes
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Notes</div><img src='images/notes-linear-2026.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Notes</div><img src='images/notes-linear-attn-2026.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Notes on Linear Attention (Oct 2026)](assets/pdf/linear_attn_notes.pdf) 
